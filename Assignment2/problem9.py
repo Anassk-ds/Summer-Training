@@ -19,9 +19,7 @@
 # Fast
 # Fast
 # Slow
-
 # Source Code:
-# Read input values
 N = int(input("Enter number of students: "))
 speeds = list(map(int, input("Enter running speeds of students: ").split()))
 # Loop through the speeds and determine if each student is fast or slow
