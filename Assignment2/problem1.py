@@ -21,9 +21,7 @@
 # Sample Output
 # Total Claps: 50
 # Average Claps: 10
-
 #Source Code:
-
 # Read the number of performances  
 N = int(input("Enter the number of performances: "))
 # Read the claps for each performance and convert them to a list of integers
