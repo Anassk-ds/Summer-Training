@@ -26,4 +26,4 @@ attempt3 = int(input("Enter third attempt: "))
 if attempt1 == 7 or attempt2 == 7 or attempt3 == 7:
     print("Door Opened")
 else:
-    print("Access Denied")
+    print("Access Denied successfully")
