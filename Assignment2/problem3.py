@@ -1,5 +1,3 @@
-# Problem 3: Lucky Bus Ticket
-# Problem Statement
 # A bus conductor checks ticket numbers.
 # A ticket is called lucky if:
 # • It is divisible by both 3 and 5
