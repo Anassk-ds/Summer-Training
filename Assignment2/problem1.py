@@ -1,5 +1,4 @@
 # Problem 1: Classroom Clap Counter
-# Problem Statement
 # During a school event, students clap after every performance.
 # You are given:
 # • Total number of performances N
