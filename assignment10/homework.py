@@ -76,6 +76,5 @@ print(x, y)
 15
 
 Output
-
 3 12
 '''
