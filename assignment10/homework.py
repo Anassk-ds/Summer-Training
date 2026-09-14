@@ -46,7 +46,6 @@ while j < m:
     j += 1
 
 print(*res)
-
 #Problem 3: Closest Pair to Target Sum (Two Pointers)
 n = int(input())
 a = list(map(int, input().split()))
