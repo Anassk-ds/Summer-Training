@@ -19,7 +19,6 @@ while l < r:
 63 0 0 2 0 4
 Output
 10'''
-
 #Problem 2: Merge Two Sorted Arrays (Two Pointers)
 n = int(input())
 a = list(map(int, input().split()))
